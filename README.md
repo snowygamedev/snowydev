@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Database stuff
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Twitter; @snowykerem 
+- 📫 How to reach me on Twitter 
 
 <!---
 snowykerem/snowykerem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
