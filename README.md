@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @snowykerem
 - 👀 I’m interested in Game Development and Database stuff
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me on Twitter 
+- 📫 How to reach me on Twitter @snowygamedev
 
 <!---
 snowykerem/snowykerem is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
