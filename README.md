@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @snowykerem
+- 👋 Hi, I’m @snowydev
 - 👀 I’m interested in Game Development and Database stuff
 - 🌱 I’m currently learning Python
 - 📫 How to reach me on Twitter @snowygamedev
